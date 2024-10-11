@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/seu-usuario/seu-repositorio/blob/main/imagens/perfil.png" alt="Perfil">
+</p>
+
 # Anthony.github.io
 
 Bem vindo ao meu portfólio como desenvolvedor!
