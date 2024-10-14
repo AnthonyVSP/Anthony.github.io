@@ -1,0 +1,99 @@
+[
+  {
+    "endereco": "",
+    "telefone": "55 921039829",
+    "sobre": "Adoro sopa de abobora",
+    "funcao": "Eletrecista",
+    "comportamentoEsperado": "sucesso"
+  },{
+  "endereco": "Adão dos Sant0s",
+  "telefone": "55 990123267",
+  "sobre": "Dirijo carros e Motos",
+  "funcao": "Motorista",
+  "comportamentoEsperado": "falha"
+},{
+  "endereco": "Adão dos Sant@s",
+  "telefone": "55 990123267",
+  "sobre": "Dirijo carros e Motos",
+  "funcao": "Motorista",
+  "comportamentoEsperado": "falha"
+},{
+  "endereco": "Adão dos Santos",
+  "telefone": "55 99O123267",
+  "sobre": "Dirijo carros e Motos",
+  "funcao": "Motorista",
+  "comportamentoEsperado": "sucesso"
+},{
+  "endereco": "Avenida Brasil",
+  "telefone": "cinco cinco 9923102938",
+  "sobre": "Faço marketing digital",
+  "funcao": "Designer",
+  "comportamentoEsperado": "falha"
+},{
+  "endereco": "Avenida Brasil",
+  "telefone": "55 99231@2938",
+  "sobre": "Faço marketing digital",
+  "funcao": "Designer",
+  "comportamentoEsperado": "falha"
+},{
+  "endereco": "Avenida Brasil",
+  "telefone": "",
+  "sobre": "Faço marketing digital",
+  "funcao": "Designer",
+  "comportamentoEsperado": "sucesso"
+},{
+  "endereco": "Avenida Brasil",
+  "telefone": "55 9923172938",
+  "sobre": "Faço marketing digital",
+  "funcao": "Designer",
+  "comportamentoEsperado": "sucesso"
+},{
+  "endereco": "Avenida São Paulo",
+  "telefone": "55 996689203",
+  "sobre": "Am@ Livros",
+  "funcao": "Bibliotecário",
+  "comportamentoEsperado": "falha"
+},{
+  "endereco": "Avenida São Paulo",
+  "telefone": "55 996689203",
+  "sobre": "Am0 Livros",
+  "funcao": "Bibliotecário",
+  "comportamentoEsperado": "falha"
+},{
+  "endereco": "Avenida São Paulo",
+  "telefone": "55 996689203",
+  "sobre": "",
+  "funcao": "Bibliotecário",
+  "comportamentoEsperado": "sucesso"
+},{
+  "endereco": "Avenida São Paulo",
+  "telefone": "55 996689203",
+  "sobre": "Amo Livros",
+  "funcao": "Bibliotecário",
+  "comportamentoEsperado": "sucesso"
+},{
+  "endereco": "Avenida São Paulo",
+  "telefone": "55 996689203",
+  "sobre": "Amo livros",
+  "funcao": "Bibliotec@rio",
+  "comportamentoEsperado": "falha"
+},{
+  "endereco": "Avenida São Paulo",
+  "telefone": "55 996689203",
+  "sobre": "Amo livros",
+  "funcao": "Bibliotecari0",
+  "comportamentoEsperado": "falha"
+},{
+  "endereco": "Avenida São Paulo",
+  "telefone": "55 996689203",
+  "sobre": "Amo livros",
+  "funcao": "",
+  "comportamentoEsperado": "sucesso"
+},{
+  "endereco": "Avenida São Paulo",
+  "telefone": "55 996689203",
+  "sobre": "Amo livros",
+  "funcao": "Bibliotecario",
+  "comportamentoEsperado": "sucesso"
+}
+  ]
