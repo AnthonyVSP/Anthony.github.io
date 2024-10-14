@@ -10,7 +10,11 @@ Bem vindo ao meu portfólio como desenvolvedor!
 
 Sou desenvolvedor com foco em Dominar as linguagens de Progamação. Gosto de criar soluções criativas e funcionais utilizando Java.
 
-## Projetos :
+## Atividades recentes :
+
+*>* Aqui é mostrado um código em Java utilizando a Ferramenta IntellJ para fazer um Teste automático no site [AiQuiz2](https://github.com/AnthonyVSP/Anthony.github.io/blob/main/AiQuiz2.java). 
+
+*>* Aqui é mostrado outro código em Java porém em uma File utilizando .json para tornar possivel a [Parametrização](https://github.com/AnthonyVSP/Anthony.github.io/blob/main/MeuPerfil.json)
 
 ## Contato :
 
